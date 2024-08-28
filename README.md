@@ -3,6 +3,9 @@
 Simple web recon
 
 ```bash
-┌──(kali㉿kali)-[~/Documents/git/web-recon]
-└─$ ./webrecon.sh https://site.com wordlist.txt txt
+┌──(kali㉿kali)-[~]
+└─$ chmod +x webrecon.sh
+
+┌──(kali㉿kali)-[~]
+└─$ ./webrecon.sh https://site.com.br wordlist.txt txt
 ```
