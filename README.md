@@ -7,5 +7,5 @@ Simple web recon
 └─$ chmod +x webrecon.sh
 
 ┌──(kali㉿kali)-[~]
-└─$ ./webrecon.sh https://site.com.br wordlist.txt txt
+└─$ ./webrecon.sh https://site.com wordlist.txt txt
 ```
