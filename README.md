@@ -41,7 +41,7 @@
 After installation, you can run the tool with the following command:
 
 ```bash
-python main.py <domain>
+python webrecon.py <domain>
 ```
 
 Replace `<domain>` with the domain you wish to investigate.
