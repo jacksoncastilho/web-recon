@@ -1,0 +1,5 @@
+requests==2.28.1
+beautifulsoup4==4.11.1
+dnspython==2.2.1
+whois==0.8.0
+python-dotenv==0.21.0
