@@ -4,13 +4,6 @@
 
 **Web Recon** is a tool designed to facilitate information gathering about websites. With a set of features that automate the reconnaissance process, this tool is ideal for security professionals, developers, and enthusiasts looking to better understand the infrastructure of a web application.
 
-## Features
-
-- **Subdomain Enumeration**: Identify subdomains associated with a specific domain.
-- **DNS Lookups**: Perform DNS queries to obtain detailed information about the domain.
-- **Vulnerability Checking**: Integration with APIs to check for known vulnerabilities.
-- **User-Friendly Interface**: Access all functionalities through a simple and intuitive interface.
-
 ## Prerequisites
 
 - Python 3.7 or higher
